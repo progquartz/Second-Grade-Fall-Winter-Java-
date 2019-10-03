@@ -63,7 +63,6 @@ public class Lab02Test {
         MyPoint p2 = new MyPoint(10,10);
         System.out.println("x = " + p1.getX());
         System.out.println("y = " + p1.getY());
-        System.out.println("x & y = " + p1.getXY());
         System.out.println("x & y is" + p1.toString());
         System.out.println("disatnce to 0,0 = "+ p1.distance());
         System.out.println("disatnce to p2= "+ p1.distance(p2));
