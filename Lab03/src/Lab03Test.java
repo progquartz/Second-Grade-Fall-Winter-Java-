@@ -6,10 +6,10 @@ public class Lab03Test {
         //dk.printDeck();
         //dk.dealCard();
 
-        Race rc = new Race();
-        rc.run();
-        //TicTacToe a = new TicTacToe();
-        //a.play();
+        //Race rc = new Race();
+        //rc.run();
+        TicTacToe a = new TicTacToe();
+        a.play();
     }
 
 }
