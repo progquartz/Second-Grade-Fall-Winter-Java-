@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="82067204-4431-4d89-ae8d-e3fa58e4cbec" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../7주차/src/AddressBookEntry.java" beforeDir="false" afterPath="$PROJECT_DIR$/../7주차/src/AddressBookEntry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7주차/src/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../7주차/src/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7주차/src/CollectionExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/../7주차/src/CollectionExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7주차/src/CollectionsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../7주차/src/CollectionsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7주차/src/DoubleComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../7주차/src/DoubleComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7주차/src/IntegerComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../7주차/src/IntegerComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7주차/src/IteratorExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/../7주차/src/IteratorExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7주차/src/ListExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/../7주차/src/ListExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7주차/src/PhoneBookEntry.java" beforeDir="false" afterPath="$PROJECT_DIR$/../7주차/src/PhoneBookEntry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7주차/src/SetExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/../7주차/src/SetExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7주차/src/StringComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../7주차/src/StringComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7주차/src/TestTreeSetComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../7주차/src/TestTreeSetComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7주차/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../7주차/src/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example12/src/Examples12/Outer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Example12/src/Examples12/Outer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab042/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab042/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab042/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab042/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab042/out/production/Lab04/BasePlusCommissionEmployee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab042/out/production/Lab04/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab042/out/production/Lab04/CommissionEmployee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab042/out/production/Lab04/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab042/out/production/Lab04/HourlyEmployee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab042/out/production/Lab04/Lab04Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab042/out/production/Lab04/Line.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab042/out/production/Lab04/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab042/out/production/Lab04/Quadrilateral.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab042/out/production/Lab04/SalariedEmployee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab042/out/production/Lab04/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab042/src/BasePlusCommissionEmployee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab042/src/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab042/src/CommissionEmployee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab042/src/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab042/src/HourlyEmployee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab042/src/Lab04Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab042/src/Line.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab042/src/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab042/src/Quadrilateral.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab042/src/SalariedEmployee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab042/src/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab05/src/Lab05Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab05/src/Lab05Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab06/Lab06Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab06/Lab06Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab06/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab06/List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab06/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab06/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab06/Location2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab06/Location2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab06/MazeQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab06/MazeQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab06/MazeStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab06/MazeStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab06/Polynomial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab06/Polynomial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab06/Term.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab06/Term.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midtermexampractice/src/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Midtermexampractice/src/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midtermexampractice/src/Lion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Midtermexampractice/src/Lion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midtermexampractice/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Midtermexampractice/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midtermexampractice/src/Predator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Midtermexampractice/src/Predator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midtermexampractice/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Midtermexampractice/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midtermexampractice/src/Tiger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Midtermexampractice/src/Tiger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midtermexampractice/src/Zookeeper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Midtermexampractice/src/Zookeeper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java.iml" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Lab06/Lab06Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lab06/Employee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="512">
+              <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+              <folding>
+                <element signature="e#353#354#0" expanded="true" />
+                <element signature="e#386#387#0" expanded="true" />
+                <element signature="e#451#452#0" expanded="true" />
+                <element signature="e#483#484#0" expanded="true" />
+                <element signature="e#554#555#0" expanded="true" />
+                <element signature="e#585#586#0" expanded="true" />
+                <element signature="e#648#649#0" expanded="true" />
+                <element signature="e#679#680#0" expanded="true" />
+                <element signature="e#774#775#0" expanded="true" />
+                <element signature="e#835#836#0" expanded="true" />
+                <element signature="e#966#967#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lab06/MazeQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lab06/Polynomial.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lab06/Location2D.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+              <folding>
+                <element signature="e#128#129#0" expanded="true" />
+                <element signature="e#178#179#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lab06/MazeStack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="880">
+              <caret line="55" column="5" selection-start-line="5" selection-start-column="4" selection-end-line="55" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lab06/List.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1600">
+              <caret line="110" column="9" selection-start-line="110" selection-start-column="9" selection-end-line="110" selection-end-column="9" />
+              <folding>
+                <element signature="e#148#149#0" expanded="true" />
+                <element signature="e#180#181#0" expanded="true" />
+                <element signature="e#235#236#0" expanded="true" />
+                <element signature="e#277#278#0" expanded="true" />
+                <element signature="e#317#318#0" expanded="true" />
+                <element signature="e#348#349#0" expanded="true" />
+                <element signature="e#401#402#0" expanded="true" />
+                <element signature="e#441#442#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lab06/Term.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lab06/ListNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+              <folding>
+                <element signature="e#498#499#0" expanded="true" />
+                <element signature="e#537#538#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ListNode</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>List</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Lab06/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/Lab06/Term.java" />
+        <option value="$PROJECT_DIR$/src/Lab06/List.java" />
+        <option value="$PROJECT_DIR$/src/Lab06/Polynomial.java" />
+        <option value="$PROJECT_DIR$/src/Lab06/Location2D.java" />
+        <option value="$PROJECT_DIR$/src/Lab06/MazeStack.java" />
+        <option value="$PROJECT_DIR$/src/Lab06/MazeQueue.java" />
+        <option value="$PROJECT_DIR$/src/Lab06/Employee.java" />
+        <option value="$PROJECT_DIR$/src/Lab06/Lab06Test.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Lab06" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab06" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab06" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab06" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab06" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab06" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab06" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Lab06Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab06.Lab06Test" />
+      <module name="Lab06" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Lab06.Lab06Test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Lab06Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82067204-4431-4d89-ae8d-e3fa58e4cbec" name="Default Changelist" comment="" />
+      <created>1572571455096</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572571455096</updated>
+      <workItem from="1572571464135" duration="1580000" />
+      <workItem from="1572998714370" duration="5891000" />
+      <workItem from="1573004662906" duration="29000" />
+      <workItem from="1573603328795" duration="6122000" />
+      <workItem from="1574139875277" duration="520000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14142000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2637584" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3563748" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24966443" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Lab06/Lab06Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab06/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+          <folding>
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#451#452#0" expanded="true" />
+            <element signature="e#483#484#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+            <element signature="e#585#586#0" expanded="true" />
+            <element signature="e#648#649#0" expanded="true" />
+            <element signature="e#679#680#0" expanded="true" />
+            <element signature="e#774#775#0" expanded="true" />
+            <element signature="e#835#836#0" expanded="true" />
+            <element signature="e#966#967#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab06/MazeQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab06/Polynomial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab06/Location2D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding>
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab06/MazeStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="55" column="5" selection-start-line="5" selection-start-column="4" selection-end-line="55" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab06/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1600">
+          <caret line="110" column="9" selection-start-line="110" selection-start-column="9" selection-end-line="110" selection-end-column="9" />
+          <folding>
+            <element signature="e#148#149#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab06/Term.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab06/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+          <folding>
+            <element signature="e#498#499#0" expanded="true" />
+            <element signature="e#537#538#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
