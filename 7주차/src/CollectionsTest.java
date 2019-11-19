@@ -1,5 +1,3 @@
-package Collections;
-
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
@@ -13,6 +11,12 @@ import Collections.TestTreeSetComparator.PhoneBookComparator;
 public class CollectionsTest {
 
 	public static void main(String[] args) {
+
+		test o1 = new test();
+		test o2 = new test();
+
+		if(o1.greater(o2))
+			System.out.println("print o1 is greater than o2");
 		
 	  CollectionExamples ce = new CollectionExamples();
 	       // ce.exaGeneric();
@@ -67,7 +71,7 @@ public class CollectionsTest {
 	      PhoneBookEntry addr2 = new PhoneBookEntry("PAUL");
 	      PhoneBookEntry addr3 = new PhoneBookEntry("Patrick");
 	 
-	      Comparator<PhoneBookEntry> comp = new PhoneBookComparator();
+	      //Comparator<PhoneBookEntry> comp = new PhoneBookComparator();
 	      TreeSet<PhoneBookEntry> set = new TreeSet<PhoneBookEntry>(comp);
 	      set.add(addr1);
 	      set.add(addr2);

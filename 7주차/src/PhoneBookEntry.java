@@ -1,5 +1,3 @@
-package Collections;
-
 public class PhoneBookEntry {
    public String name, address, phone;
  

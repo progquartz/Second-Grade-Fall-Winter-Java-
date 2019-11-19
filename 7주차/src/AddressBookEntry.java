@@ -1,6 +1,3 @@
-
-package Collections;
-
 public class AddressBookEntry implements Comparable<AddressBookEntry> {
    private String name, address, phone;
  //  private int ID;

@@ -1,4 +1,4 @@
-package PACKAGE_NAME;
-
-public class Test {
+final class Test{
+    final int i=0;
+    final void methodA(){}
 }

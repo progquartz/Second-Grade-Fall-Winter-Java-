@@ -1,7 +1,7 @@
 public class Lab05Test {
     public static void main(String[] args){
         testGI();
-        testEmployee();
+        //testEmployee();
     }
 
     public static void testGI(){

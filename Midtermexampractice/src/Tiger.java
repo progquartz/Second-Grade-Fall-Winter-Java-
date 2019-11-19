@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
+public class Tiger extends Animal implements Predator {
 
-public class Tiger {
 }
